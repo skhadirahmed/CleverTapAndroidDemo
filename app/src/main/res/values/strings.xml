@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleverTap Android</string>
+    <string name="email_id">email id</string>
+    <string name="name">name</string>
+    <string name="send_data">Send Data</string>
+    <string name="view_product">View Product</string>
+</resources>
